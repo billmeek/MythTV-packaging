@@ -58,7 +58,6 @@
         endscript
 }
 
-# Leave in for users that build the executable...
 /var/log/mythtv/mythtv-setup.log {
         daily
 	size=10M
