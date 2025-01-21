@@ -8,6 +8,7 @@
 #
 # = USAGE
 # makebundle mythfrontend[.app]
+# makebundle mythtv-setup[.app]
 # makebundle mythtv[.app]
 #
 # = DESCRIPTION
